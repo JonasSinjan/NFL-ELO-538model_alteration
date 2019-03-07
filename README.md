@@ -11,3 +11,5 @@ But for playoff games my model performed better.
 
 My model 2018 results: 723.7 points per season.
 538 Elo got 718.9 points per season.
+
+The code at the moment hasn't been tidied up, to run must set x to False, run again with x set to True. This model predicts a team winning its game the following week.  During the Offseason, which it is currently at the time or writing, the model doesn't function.
