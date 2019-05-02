@@ -7,10 +7,12 @@ From which: My forecasts would have gotten 847.88 points per season. Elo got 841
 
 2018 season results
 For regular season 538's model performed better.
-But for playoff games my model performed better.
+But for playoff games my model performed better. (The model weights playoff games twice as much as regular season games)
 
 My model 2018 results: 723.7 points per season.
 538 Elo got 718.9 points per season.
+
+Overall very little difference, this difference is well within the standard deviation of the original model.  Shows that it is pretty accurate to use a global home field advantage term. 
 
 The code at the moment hasn't been tidied up so there is a small bug: to run must set updatebool in line 25 of run.py to True, run again with it set to False. 
 
