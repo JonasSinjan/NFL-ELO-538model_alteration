@@ -1,4 +1,7 @@
-# NFLprediction
+# NFLprediction - 538 ELO model
+
+The main goal for this exercise was to go through and understand an elo model written by someone else and gain experience tinkering with prediction models.  This experience taught me good coding habits, eg: how to setup different python files and execute in one main run.py. It also exposed to the use of staticmethods within classes.
+
 Made a slight alteration to 538's NFL ELO prediction model:
 Used each team's home field win percentage as their home field advantage term instead of a global 65
 
@@ -16,4 +19,4 @@ Overall very little difference, this difference is well within the standard devi
 
 The code at the moment hasn't been tidied up so there is a small bug: to run must set updatebool in line 25 of run.py to True, run again with it set to False. 
 
-This model predicts a team winning its game the following week.  During the Offseason, which it is currently at the time or writing, the model doesn't function.
+This model predicts a team winning its game the following week.  During the Offseason, which it is currently at the time of writing, the model doesn't function.
