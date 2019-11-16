@@ -7,7 +7,7 @@ From which: My forecasts would have gotten 847.88 points per season. Elo got 841
 
 2018 season results
 For regular season 538's model performed better.
-But for playoff games my model performed better. (The model weights playoff games twice as much as regular season games)
+But for playoff games my model performed better. (538's forecasting game weights playoff games twice as much as regular season games)
 
 My model 2018 results: 723.7 points per season.
 538 Elo got 718.9 points per season.
