@@ -19,4 +19,4 @@ Overall very little difference, this difference is well within the standard devi
 
 The code at the moment hasn't been tidied up so there is a small bug: to run must set updatebool in line 25 of run.py to True, run again with it set to False. 
 
-This model predicts a team winning its game the following week.  During the Offseason, which it is currently at the time of writing, there is a bug that needs to be fixed at a later date.
+This model predicts a team winning its game the following week.  During the Offseason, which it is currently at the time of writing, there are bugs that need to be fixed at a later date.
